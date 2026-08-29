@@ -1,5 +1,3 @@
-[file name]: FAQ.py
-[file content begin]
 import logging
 import os
 import time
